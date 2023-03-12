@@ -6,8 +6,9 @@
 * JavaScript
 * Django
 * Python
-* HTML
-* CSS
+* HTML5
+* CSS3
+* VS Code
 
 <h3>Features-</h3>
 
