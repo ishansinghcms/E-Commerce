@@ -28,7 +28,7 @@
 
 <h3>Steps to run backend Django application-</h3>
 
-* Clone project: git clone https://github.com/ishansinghcms/E-Commerce-Website.git
+* Clone project
 * cd E-Commerce-Website
 * Create virtual environment: virtualenv myenv
 * myenv\scripts\activate
