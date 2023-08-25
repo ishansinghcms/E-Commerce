@@ -29,7 +29,7 @@
 <h3>Steps to run backend Django application-</h3>
 
 * Clone project
-* cd E-Commerce-Website
+* cd backend
 * Create virtual environment: virtualenv myenv
 * myenv\scripts\activate
 * pip install -r requirements.txt
